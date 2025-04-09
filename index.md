@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm **Anna**, a student majoring in *Mathematics-Computer Science* and minoring in *Data Science*. I'm an aspiring software engineer with a deep interest in data, design, and systems.
+Hi! I'm **Anna**, a UC San Diego student majoring in *Mathematics-Computer Science* and minoring in *Data Science*. I'm an aspiring software engineer with a deep interest in data, design, and systems.
 
 [My LinkedIn Page](https://www.linkedin.com/in/anna-doann/)
 
@@ -40,10 +40,10 @@ def greetings(name):
 
 ## Images
 A picture of chicken jockey:
-!(https://media.cnn.com/api/v1/images/stellar/prod/rev-1-mcr-t3-0093-high-res-jpeg.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp)
+!https://media.cnn.com/api/v1/images/stellar/prod/rev-1-mcr-t3-0093-high-res-jpeg.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp
 
 A picture of my favorite flower!
-!(https://www.dutchgrown.com/cdn/shop/products/LilyStarGazer_grande.jpg?v=1668676765)
+!https://www.dutchgrown.com/cdn/shop/products/LilyStarGazer_grande.jpg?v=1668676765
 
 ## Links 
 
