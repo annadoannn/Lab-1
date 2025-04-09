@@ -54,7 +54,8 @@ A picture of my favorite flower!
 
 ### Relative Links
 - [See my README](README.md)
-- ![Me at the 2023 UC Berkeley AI Hackathon](images/cal-hack.jpg)
+- Me at the 2023 UC Berkeley AI Hackathon
+![Me at the 2023 UC Berkeley AI Hackathon](images/cal-hack.jpg)
 
 ### Table of Contents
 *Section Links*
