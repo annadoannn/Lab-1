@@ -3,7 +3,8 @@ Anna Doan's User Page
 
 My favorite programming language is Python!
 
-[Link to my user page](https://annadoannn.github.io/Lab-1/)
+[Hyperlink to my user page](https://annadoannn.github.io/Lab-1/)
+Link to my user page: https://annadoannn.github.io/Lab-1/
 
 **NOTE**  
 - `screenshots` has my screenshot of the command line git transactions and staged commits in VSCode
