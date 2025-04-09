@@ -6,7 +6,7 @@ Hi! I'm **Anna**, a UC San Diego student majoring in *Mathematics-Computer Scien
 
 [My LinkedIn Page](https://www.linkedin.com/in/anna-doann/)
 
-- I am currently taking:
+I am currently taking:
   - CSE 110 (Software Engineering)
   - CSE 151A (Machine Learning: Learning Algorithms)
   - MATH 181A (Introduction to Mathematical Statistics I)
