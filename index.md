@@ -40,10 +40,10 @@ def greetings(name):
 
 ## Images
 A picture of chicken jockey:
-- !(https://media.cnn.com/api/v1/images/stellar/prod/rev-1-mcr-t3-0093-high-res-jpeg.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp)
+!(https://media.cnn.com/api/v1/images/stellar/prod/rev-1-mcr-t3-0093-high-res-jpeg.jpg?c=16x9&q=h_653,w_1160,c_fill/f_webp)
 
 A picture of my favorite flower!
-- !(https://www.dutchgrown.com/cdn/shop/products/LilyStarGazer_grande.jpg?v=1668676765)
+!(https://www.dutchgrown.com/cdn/shop/products/LilyStarGazer_grande.jpg?v=1668676765)
 
 ## Links 
 
@@ -56,7 +56,7 @@ A picture of my favorite flower!
 - [See my README](README.md)
 - [Me at the 2023 UC Berkeley AI Hackathon](images/cal-hack.jpeg)
 
-### Index
+### Table of Contents
 *Section Links*
 - [Anna Doan's GitHub User Page](#anna-doans-github-user-page)
   - [About Me](#about-me)
@@ -67,7 +67,8 @@ A picture of my favorite flower!
   - [Links](#links)
     - [External Links](#external-links)
     - [Relative Links](#relative-links)
-    - [Index](#index)
+    - [Table of Contents](#table-of-contents)
+
 
 
 
